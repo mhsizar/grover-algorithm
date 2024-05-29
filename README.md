@@ -1,1 +1,1 @@
-# grover-s-algorithm
+# grover's-algorithm
